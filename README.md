@@ -1,7 +1,10 @@
 # Healthify : Health Care System
+Healthify is a digital health platform that provides consultation services with doctors, ordering medicines, and health information through articles or Chatbot integrated with Artificial Intelligence
 
 ## 📚 Documentation
-* [Healthify Landing Page](https://healthify-reactapp.vercel.app/)
+* [Healthify - User](https://healthify-reactapp.vercel.app/)
+* [Healthify - Doctor](https://healthify-doctor.vercel.app/login)
+* [Healthify - Admin](https://healthify-admin.vercel.app/login)
 * [Healthify GitHub Organization](https://github.com/Health-Care-System)
   
 ## 🚀 Tools and Technologies 
